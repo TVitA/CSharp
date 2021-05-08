@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Titan\\Desktop\\CSharp\\AsyncProgramming\\AsyncMethods_async_await\\AsyncMethods_async_await.csproj": {}
+    "C:\\Users\\Titan\\Desktop\\CSharp\\AsyncProgramming\\AsyncMethods_async_await_2\\AsyncMethods_async_await_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Titan\\Desktop\\CSharp\\AsyncProgramming\\AsyncMethods_async_await\\AsyncMethods_async_await.csproj": {
+    "C:\\Users\\Titan\\Desktop\\CSharp\\AsyncProgramming\\AsyncMethods_async_await_2\\AsyncMethods_async_await_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Titan\\Desktop\\CSharp\\AsyncProgramming\\AsyncMethods_async_await\\AsyncMethods_async_await.csproj",
-        "projectName": "AsyncMethods_async_await",
-        "projectPath": "C:\\Users\\Titan\\Desktop\\CSharp\\AsyncProgramming\\AsyncMethods_async_await\\AsyncMethods_async_await.csproj",
+        "projectUniqueName": "C:\\Users\\Titan\\Desktop\\CSharp\\AsyncProgramming\\AsyncMethods_async_await_2\\AsyncMethods_async_await_2.csproj",
+        "projectName": "AsyncMethods_async_await_2",
+        "projectPath": "C:\\Users\\Titan\\Desktop\\CSharp\\AsyncProgramming\\AsyncMethods_async_await_2\\AsyncMethods_async_await_2.csproj",
         "packagesPath": "C:\\Users\\Titan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Titan\\Desktop\\CSharp\\AsyncProgramming\\AsyncMethods_async_await\\obj\\",
+        "outputPath": "C:\\Users\\Titan\\Desktop\\CSharp\\AsyncProgramming\\AsyncMethods_async_await_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Titan\\AppData\\Roaming\\NuGet\\NuGet.Config",
