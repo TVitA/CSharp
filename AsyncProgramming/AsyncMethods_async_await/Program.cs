@@ -33,7 +33,7 @@ namespace AsyncMethods_async_await
 
             Thread.Sleep(2000);
 
-            Int32 factorial = await Task<Int32>.Run(Factorial);
+            Int32 factorial = await Task<Int32>.Run(() => Factorial()); // .Run(Factorial);
 
             Console.WriteLine("5! = {0}", factorial);
 

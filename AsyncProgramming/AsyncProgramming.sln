@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncMethods_async_await", "AsyncMethods_async_await\AsyncMethods_async_await.csproj", "{7BAD5585-387E-4CFD-9B0F-617E3415B17F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncMethods_async_await_2", "AsyncMethods_async_await_2\AsyncMethods_async_await_2.csproj", "{9F3649C5-BAD2-42ED-8A20-0E9B0F84707A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncMethods_async_await_2", "AsyncMethods_async_await_2\AsyncMethods_async_await_2.csproj", "{9F3649C5-BAD2-42ED-8A20-0E9B0F84707A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncMethods_async_await_3", "AsyncMethods_async_await_3\AsyncMethods_async_await_3.csproj", "{8D2B2D81-13D9-4EE1-BF8B-3308AE406694}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9F3649C5-BAD2-42ED-8A20-0E9B0F84707A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F3649C5-BAD2-42ED-8A20-0E9B0F84707A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F3649C5-BAD2-42ED-8A20-0E9B0F84707A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2B2D81-13D9-4EE1-BF8B-3308AE406694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2B2D81-13D9-4EE1-BF8B-3308AE406694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2B2D81-13D9-4EE1-BF8B-3308AE406694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2B2D81-13D9-4EE1-BF8B-3308AE406694}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
